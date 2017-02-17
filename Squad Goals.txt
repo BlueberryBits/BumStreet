@@ -1,6 +1,0 @@
-# Goals of Bum Street
-# 1) Make me more money than chase which results in a nice burrito
-# 2) Notify Me when a stock is within 5% of a new all-time high
-# 3) Compile all pertinent SEC documents (Quarterly reports for the last 6 Quarters)
-# 4) Neatly show how EPS has changed for the last few years
-# 5) Compare P/E ratio to price trends?

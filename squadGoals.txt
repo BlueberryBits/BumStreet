@@ -1,0 +1,21 @@
+# Goals of Bum Street
+# 1) Make me more money than chase which results in a nice burrito
+# 2) Notify Me when a stock is within 5% of a new all-time high
+# 3) Compile all pertinent SEC documents (Quarterly reports for the last 6 Quarters)
+# 4) Neatly show how EPS has changed for the last few years
+# 5) Compare P/E ratio to price trends?
+
+Alt Goals.
+# 1) Beat the S&P. 
+	-The S&P is the enemy and we must destroy it with dope ass gains.
+# 2) the S&P500 is our greatest assest
+	-To limit the amount of data we need to pull though APIs we will take comfort in the fact that the companies of the S&P are there for a damn good reason. 
+# 3) calculate the covariance of stocks in the S&P (http://www.investopedia.com/terms/c/covariance.asp)
+# 4) Be alerted when price of a stock apears to be oversold
+	-This will be done by comparing P/E with other companies in its same sector.
+	-Data will need to be adjusted to take into account as many variables as possible
+		#Debt
+		#Qurerly Earnings
+		#Consistent Dividend payouts and increases
+	-52wK Lows and Highs should be alerted and anylised.
+	
